@@ -1,0 +1,3 @@
+[submodule "k8s-learning"]
+	path = k8s-learning
+	url = https://github.com/tkssharma/k8s-learning.git
